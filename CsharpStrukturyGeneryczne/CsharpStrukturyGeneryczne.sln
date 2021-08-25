@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_TypyGeneryczne", "1_TypyG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_KolekcjeGeneryczne", "2_KolekcjeGeneryczne\2_KolekcjeGeneryczne.csproj", "{5FA5C2A0-4D9A-4F13-B695-129D2F8A84F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_TypyGeneryczneTests", "1_TypyGeneryczneTests\1_TypyGeneryczneTests.csproj", "{6259D6E3-4460-4214-BEF1-18A87A29EC0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5FA5C2A0-4D9A-4F13-B695-129D2F8A84F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA5C2A0-4D9A-4F13-B695-129D2F8A84F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA5C2A0-4D9A-4F13-B695-129D2F8A84F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6259D6E3-4460-4214-BEF1-18A87A29EC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6259D6E3-4460-4214-BEF1-18A87A29EC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6259D6E3-4460-4214-BEF1-18A87A29EC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6259D6E3-4460-4214-BEF1-18A87A29EC0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
